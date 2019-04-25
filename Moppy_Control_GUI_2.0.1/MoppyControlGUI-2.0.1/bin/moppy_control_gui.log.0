@@ -1,0 +1,1116 @@
+Feb 26, 2019 9:04:22 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 3 tracks
+Feb 26, 2019 9:05:17 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 26, 2019 9:24:35 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 3 tracks
+Feb 26, 2019 9:24:39 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 26, 2019 9:25:10 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 26, 2019 9:25:10 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 3 tracks
+Feb 26, 2019 9:44:38 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 26, 2019 9:47:25 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 26, 2019 9:54:14 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 26, 2019 10:03:36 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 26, 2019 10:05:22 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 26, 2019 10:05:24 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 26, 2019 10:05:36 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 3 tracks
+Feb 26, 2019 10:05:38 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 26, 2019 10:05:40 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 26, 2019 10:12:52 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 3 tracks
+Feb 26, 2019 10:12:53 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 26, 2019 10:22:30 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 26, 2019 10:22:43 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 26, 2019 10:23:01 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 26, 2019 10:23:29 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 26, 2019 10:25:40 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 26, 2019 10:26:53 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 26, 2019 10:28:46 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 26, 2019 10:31:17 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 26, 2019 10:31:38 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 3 tracks
+Feb 26, 2019 10:31:39 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 26, 2019 10:32:56 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 26, 2019 10:35:51 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 26, 2019 10:37:07 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 26, 2019 10:40:18 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 3 tracks
+Feb 26, 2019 10:40:18 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 26, 2019 10:41:02 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 26, 2019 10:45:47 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 13 tracks
+Feb 26, 2019 10:45:49 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 103.0
+Feb 26, 2019 10:45:58 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 134.0
+Feb 26, 2019 10:45:59 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 104.0
+Feb 26, 2019 10:46:30 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 104.0
+Feb 26, 2019 10:46:31 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 104.0
+Feb 26, 2019 10:46:31 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 105.0
+Feb 26, 2019 10:46:31 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 106.0
+Feb 26, 2019 10:46:31 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 107.0
+Feb 26, 2019 10:46:32 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 108.0
+Feb 26, 2019 10:46:32 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 109.0
+Feb 26, 2019 10:46:32 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 109.0
+Feb 26, 2019 10:46:32 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 111.0
+Feb 26, 2019 10:46:33 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 111.0
+Feb 26, 2019 10:46:33 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 117.0
+Feb 26, 2019 10:46:34 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 119.0
+Feb 26, 2019 10:46:35 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 119.0
+Feb 26, 2019 10:46:35 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 121.0
+Feb 26, 2019 10:46:53 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 104.0
+Feb 26, 2019 10:47:14 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 11 tracks
+Feb 26, 2019 10:47:16 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Feb 26, 2019 10:47:16 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Feb 26, 2019 10:47:16 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Feb 26, 2019 10:49:05 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 103.0
+Feb 26, 2019 10:49:05 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 13 tracks
+Feb 26, 2019 10:49:06 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 103.0
+Feb 26, 2019 10:49:14 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 134.0
+Feb 26, 2019 10:49:15 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 104.0
+Feb 26, 2019 10:50:19 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 4 tracks
+Feb 26, 2019 10:50:20 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 102.0
+Feb 26, 2019 10:50:32 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 102.0
+Feb 26, 2019 10:53:55 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 102.0
+Feb 26, 2019 10:55:13 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 102.0
+Feb 26, 2019 11:00:40 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 102.0
+Feb 26, 2019 11:01:51 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 11 tracks
+Feb 26, 2019 11:01:56 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Feb 26, 2019 11:01:56 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Feb 26, 2019 11:01:56 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Feb 27, 2019 9:40:06 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 4 tracks
+Feb 27, 2019 9:40:08 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 102.0
+Feb 27, 2019 9:40:51 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 102.0
+Feb 27, 2019 9:49:44 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 102.0
+Feb 27, 2019 9:51:08 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 102.0
+Feb 27, 2019 10:03:06 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 102.0
+Feb 27, 2019 10:09:24 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 3 tracks
+Feb 27, 2019 10:09:25 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 27, 2019 10:13:58 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 27, 2019 10:21:16 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 27, 2019 10:22:46 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 27, 2019 10:24:08 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 9 tracks
+Feb 27, 2019 10:24:11 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 69.0
+Feb 27, 2019 10:24:11 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Feb 27, 2019 10:24:11 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Feb 27, 2019 10:25:43 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 16 tracks
+Feb 27, 2019 10:25:45 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Feb 27, 2019 10:25:58 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Feb 27, 2019 10:26:09 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Feb 27, 2019 10:28:24 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Feb 27, 2019 10:29:01 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Feb 27, 2019 10:29:20 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Feb 27, 2019 10:29:31 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Feb 27, 2019 10:29:55 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Feb 27, 2019 10:30:19 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Feb 27, 2019 10:30:33 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 9 tracks
+Feb 27, 2019 10:30:33 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 69.0
+Feb 27, 2019 10:30:33 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Feb 27, 2019 10:30:33 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Feb 27, 2019 10:45:44 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 69.0
+Feb 27, 2019 10:45:44 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Feb 27, 2019 10:45:44 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Feb 27, 2019 10:52:55 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 69.0
+Feb 27, 2019 10:52:55 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Feb 27, 2019 10:52:55 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Feb 27, 2019 10:53:10 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 4 tracks
+Feb 27, 2019 10:53:11 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 102.0
+Feb 27, 2019 10:53:49 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 16 tracks
+Feb 27, 2019 10:53:50 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Feb 27, 2019 10:53:50 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Feb 27, 2019 10:55:22 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 9 tracks
+Feb 27, 2019 10:55:24 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 69.0
+Feb 27, 2019 10:55:24 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Feb 27, 2019 10:55:24 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Feb 27, 2019 10:56:29 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 172.0
+Feb 27, 2019 10:56:29 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 165.0
+Feb 27, 2019 10:56:30 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 159.0
+Feb 27, 2019 10:56:30 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 151.0
+Feb 27, 2019 10:56:30 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 145.0
+Feb 27, 2019 10:56:31 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 138.0
+Feb 27, 2019 10:56:31 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 132.0
+Feb 27, 2019 10:56:31 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 125.0
+Feb 27, 2019 10:56:31 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 117.0
+Feb 27, 2019 10:56:32 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 110.0
+Feb 27, 2019 10:56:32 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 104.0
+Feb 27, 2019 10:56:32 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 96.0
+Feb 27, 2019 10:56:33 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 90.0
+Feb 27, 2019 10:56:33 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 83.0
+Feb 27, 2019 10:56:34 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 76.0
+Feb 27, 2019 10:56:34 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 69.0
+Feb 27, 2019 11:02:40 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 11 tracks
+Feb 27, 2019 11:02:42 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Feb 27, 2019 11:02:42 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Feb 27, 2019 11:02:42 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Feb 27, 2019 11:02:54 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Feb 27, 2019 11:02:54 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Feb 27, 2019 11:02:54 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Feb 27, 2019 11:04:45 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 14 tracks
+Feb 27, 2019 11:04:45 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 50.0
+Feb 27, 2019 11:04:45 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 89.0
+Feb 27, 2019 11:04:45 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 89.0
+Feb 27, 2019 11:06:28 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 4 tracks
+Feb 27, 2019 11:06:28 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 140.0
+Feb 27, 2019 11:06:30 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 140.0
+Feb 27, 2019 11:07:00 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 3 tracks
+Feb 27, 2019 11:07:00 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 27, 2019 11:08:26 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 14 tracks
+Feb 27, 2019 11:08:26 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Feb 27, 2019 11:08:26 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Feb 27, 2019 11:08:26 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Feb 27, 2019 11:09:12 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 11 tracks
+Feb 27, 2019 11:09:14 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Feb 27, 2019 11:09:14 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Feb 27, 2019 11:09:14 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Feb 27, 2019 11:10:22 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 4 tracks
+Feb 27, 2019 11:10:23 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 102.0
+Feb 27, 2019 11:23:19 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 11 tracks
+Feb 27, 2019 11:23:20 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Feb 27, 2019 11:23:20 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Feb 27, 2019 11:23:20 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Feb 27, 2019 11:24:25 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 9 tracks
+Feb 27, 2019 11:24:25 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 69.0
+Feb 27, 2019 11:24:25 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Feb 27, 2019 11:24:25 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Feb 28, 2019 10:06:24 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 9 tracks
+Feb 28, 2019 10:10:11 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 69.0
+Feb 28, 2019 10:10:11 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Feb 28, 2019 10:10:11 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Feb 28, 2019 10:10:18 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 69.0
+Feb 28, 2019 10:10:18 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Feb 28, 2019 10:10:18 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Feb 28, 2019 10:13:19 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 69.0
+Feb 28, 2019 10:13:19 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Feb 28, 2019 10:13:19 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Feb 28, 2019 10:14:24 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 172.0
+Feb 28, 2019 10:14:24 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 165.0
+Feb 28, 2019 10:14:24 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 159.0
+Feb 28, 2019 10:14:25 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 151.0
+Feb 28, 2019 10:14:25 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 145.0
+Feb 28, 2019 10:14:25 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 138.0
+Feb 28, 2019 10:14:25 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 132.0
+Feb 28, 2019 10:14:26 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 125.0
+Feb 28, 2019 10:14:26 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 117.0
+Feb 28, 2019 10:14:26 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 110.0
+Feb 28, 2019 10:14:27 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 104.0
+Feb 28, 2019 10:14:27 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 96.0
+Feb 28, 2019 10:14:27 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 90.0
+Feb 28, 2019 10:14:28 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 83.0
+Feb 28, 2019 10:14:28 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 76.0
+Feb 28, 2019 10:14:29 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 69.0
+Feb 28, 2019 10:16:59 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 69.0
+Feb 28, 2019 10:16:59 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Feb 28, 2019 10:16:59 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Feb 28, 2019 10:17:58 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 3 tracks
+Feb 28, 2019 10:17:59 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 28, 2019 10:19:15 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 28, 2019 10:21:06 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 28, 2019 10:25:14 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 28, 2019 10:26:38 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 28, 2019 10:26:52 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 28, 2019 10:27:37 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 28, 2019 10:29:14 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 28, 2019 10:30:00 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 28, 2019 10:30:39 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 28, 2019 10:34:02 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Feb 28, 2019 10:35:30 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Mar 01, 2019 10:05:13 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 3 tracks
+Mar 01, 2019 10:05:14 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Mar 01, 2019 10:05:36 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Mar 01, 2019 10:06:44 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Mar 01, 2019 10:07:18 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Mar 01, 2019 10:08:41 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Mar 01, 2019 10:08:57 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 3 tracks
+Mar 01, 2019 10:08:57 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Mar 01, 2019 10:09:05 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Mar 01, 2019 10:09:09 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Mar 01, 2019 10:09:09 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 3 tracks
+Mar 01, 2019 10:09:49 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Mar 01, 2019 10:10:37 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Mar 01, 2019 10:44:39 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Mar 01, 2019 10:46:22 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Mar 01, 2019 10:47:53 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Mar 01, 2019 10:49:33 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 3 tracks
+Mar 01, 2019 10:49:34 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Mar 05, 2019 10:12:42 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 3 tracks
+Mar 05, 2019 10:12:43 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Mar 05, 2019 10:14:14 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Mar 05, 2019 10:14:28 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Mar 05, 2019 10:16:07 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Mar 05, 2019 10:17:43 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Mar 05, 2019 10:19:23 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Mar 05, 2019 10:21:19 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 11 tracks
+Mar 05, 2019 10:21:21 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 05, 2019 10:21:21 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 05, 2019 10:21:21 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 05, 2019 10:25:18 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 05, 2019 10:25:18 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 05, 2019 10:25:18 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 05, 2019 10:42:22 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 05, 2019 10:42:22 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 05, 2019 10:42:22 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 05, 2019 10:45:37 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 05, 2019 10:45:37 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 05, 2019 10:45:37 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 05, 2019 10:46:15 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 05, 2019 10:46:15 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 05, 2019 10:46:15 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 05, 2019 10:47:37 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 05, 2019 10:47:37 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 05, 2019 10:47:37 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:05:04 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 11 tracks
+Mar 13, 2019 10:05:21 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:05:21 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:05:21 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:06:40 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:06:40 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:06:40 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:12:30 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:12:30 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:12:30 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:13:36 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:13:36 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:13:36 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:13:50 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 9 tracks
+Mar 13, 2019 10:13:50 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 69.0
+Mar 13, 2019 10:13:50 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Mar 13, 2019 10:13:50 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Mar 13, 2019 10:14:48 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 69.0
+Mar 13, 2019 10:14:48 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Mar 13, 2019 10:14:48 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Mar 13, 2019 10:16:25 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 11 tracks
+Mar 13, 2019 10:16:31 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:16:31 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:16:31 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:17:51 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:17:51 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:17:51 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:21:33 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:21:33 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:21:33 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:22:01 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:22:01 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:22:01 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:22:19 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:22:19 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:22:19 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:22:26 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 9 tracks
+Mar 13, 2019 10:22:27 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 69.0
+Mar 13, 2019 10:22:27 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Mar 13, 2019 10:22:27 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Mar 13, 2019 10:23:00 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 11 tracks
+Mar 13, 2019 10:23:06 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:23:06 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:23:06 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:23:52 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 69.0
+Mar 13, 2019 10:23:52 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 9 tracks
+Mar 13, 2019 10:23:52 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Mar 13, 2019 10:23:52 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Mar 13, 2019 10:24:42 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 69.0
+Mar 13, 2019 10:24:42 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Mar 13, 2019 10:24:42 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Mar 13, 2019 10:25:03 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 69.0
+Mar 13, 2019 10:25:03 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Mar 13, 2019 10:25:03 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Mar 13, 2019 10:25:15 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 11 tracks
+Mar 13, 2019 10:25:15 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:25:15 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:25:15 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:25:59 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:25:59 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:25:59 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:45:05 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:45:05 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:45:05 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:45:16 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 11 tracks
+Mar 13, 2019 10:45:21 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:45:21 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:45:21 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:50:49 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:50:49 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:50:49 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:51:09 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 11 tracks
+Mar 13, 2019 10:51:14 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:51:14 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:51:14 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:52:04 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:52:04 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:52:04 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:52:31 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:52:31 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:52:31 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:53:03 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:53:03 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:53:03 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:54:17 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:54:17 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:54:17 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:54:53 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:54:54 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:54:54 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 10:55:13 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 9 tracks
+Mar 13, 2019 10:55:16 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 69.0
+Mar 13, 2019 10:55:16 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Mar 13, 2019 10:55:16 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Mar 13, 2019 10:56:58 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 69.0
+Mar 13, 2019 10:56:58 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Mar 13, 2019 10:56:58 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Mar 13, 2019 10:57:22 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 69.0
+Mar 13, 2019 10:57:22 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Mar 13, 2019 10:57:22 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Mar 13, 2019 11:01:56 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 69.0
+Mar 13, 2019 11:01:56 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Mar 13, 2019 11:01:56 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Mar 13, 2019 11:04:32 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 69.0
+Mar 13, 2019 11:04:32 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Mar 13, 2019 11:04:32 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Mar 13, 2019 11:04:56 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 69.0
+Mar 13, 2019 11:04:56 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Mar 13, 2019 11:04:56 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Mar 13, 2019 11:05:05 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 69.0
+Mar 13, 2019 11:05:05 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Mar 13, 2019 11:05:05 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Mar 13, 2019 11:07:54 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 69.0
+Mar 13, 2019 11:07:54 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Mar 13, 2019 11:07:54 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Mar 13, 2019 11:10:50 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 69.0
+Mar 13, 2019 11:10:50 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Mar 13, 2019 11:10:50 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Mar 13, 2019 11:14:28 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 69.0
+Mar 13, 2019 11:14:28 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Mar 13, 2019 11:14:28 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Mar 13, 2019 11:14:43 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 11 tracks
+Mar 13, 2019 11:14:47 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 11:14:47 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 11:14:47 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 11:16:45 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 11 tracks
+Mar 13, 2019 11:16:48 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 11:16:48 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 11:16:48 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 11:17:04 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 11:17:04 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 11:17:04 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 11:17:28 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 11:17:28 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 13, 2019 11:17:28 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 19, 2019 10:54:31 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 11 tracks
+Mar 19, 2019 10:59:06 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 19, 2019 10:59:06 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 19, 2019 10:59:06 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 19, 2019 10:59:25 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 11 tracks
+Mar 19, 2019 10:59:28 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 19, 2019 10:59:28 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 19, 2019 10:59:28 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 19, 2019 10:59:33 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 19, 2019 10:59:33 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 19, 2019 10:59:33 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 26, 2019 9:57:09 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 14 tracks
+Mar 26, 2019 9:57:13 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 4 tracks
+Mar 26, 2019 9:57:59 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 3 tracks
+Mar 26, 2019 10:05:54 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 3 tracks
+Mar 26, 2019 10:05:56 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Mar 26, 2019 10:07:31 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Mar 26, 2019 10:07:47 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 3 tracks
+Mar 26, 2019 10:07:51 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Mar 26, 2019 10:09:04 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Mar 26, 2019 10:10:03 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Mar 26, 2019 10:11:04 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 3 tracks
+Mar 26, 2019 10:11:13 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Mar 26, 2019 10:12:13 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 3 tracks
+Mar 26, 2019 10:12:23 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Mar 26, 2019 10:17:12 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Mar 29, 2019 10:25:22 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 3 tracks
+Mar 29, 2019 11:14:52 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Mar 29, 2019 11:15:32 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 3 tracks
+Mar 29, 2019 11:15:36 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Mar 29, 2019 11:16:28 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Mar 29, 2019 11:17:41 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Mar 29, 2019 11:18:28 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 29, 2019 11:18:28 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 11 tracks
+Mar 29, 2019 11:18:28 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 29, 2019 11:18:28 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 29, 2019 11:19:03 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 29, 2019 11:19:03 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 29, 2019 11:19:03 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 29, 2019 3:34:08 PM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 11 tracks
+Mar 29, 2019 3:48:21 PM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 11 tracks
+Mar 29, 2019 3:48:26 PM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 29, 2019 3:48:26 PM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 29, 2019 3:48:26 PM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 29, 2019 3:49:08 PM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 29, 2019 3:49:08 PM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 29, 2019 3:49:08 PM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 29, 2019 3:49:41 PM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 4 tracks
+Mar 29, 2019 3:49:43 PM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 102.0
+Mar 29, 2019 3:53:49 PM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 11 tracks
+Mar 29, 2019 3:53:51 PM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 29, 2019 3:53:51 PM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 29, 2019 3:53:51 PM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 29, 2019 3:54:02 PM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 29, 2019 3:54:02 PM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Mar 29, 2019 3:54:02 PM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 04, 2019 10:49:21 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 11 tracks
+Apr 04, 2019 10:49:47 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 04, 2019 10:49:47 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 04, 2019 10:49:47 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 04, 2019 10:49:57 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 04, 2019 10:49:57 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 04, 2019 10:49:57 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 08, 2019 11:01:06 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 11 tracks
+Apr 08, 2019 11:01:18 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 08, 2019 11:01:18 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 08, 2019 11:01:18 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 08, 2019 11:15:17 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 3 tracks
+Apr 08, 2019 11:15:19 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Apr 09, 2019 9:16:54 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 3 tracks
+Apr 09, 2019 9:16:56 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Apr 09, 2019 10:49:47 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 3 tracks
+Apr 09, 2019 10:49:48 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Apr 09, 2019 10:50:08 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Apr 09, 2019 11:02:14 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Apr 09, 2019 11:13:13 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Apr 09, 2019 11:13:38 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 3 tracks
+Apr 09, 2019 11:13:39 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Apr 09, 2019 11:14:05 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Apr 09, 2019 11:14:20 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Apr 09, 2019 11:14:28 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Apr 09, 2019 11:20:03 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 4 tracks
+Apr 09, 2019 11:20:06 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 102.0
+Apr 09, 2019 11:20:44 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 09, 2019 11:20:44 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 11 tracks
+Apr 09, 2019 11:20:44 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 09, 2019 11:20:44 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 10, 2019 9:18:54 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 11 tracks
+Apr 10, 2019 9:18:57 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 10, 2019 9:18:57 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 10, 2019 9:18:57 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 10, 2019 9:20:12 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 10, 2019 9:20:12 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 10, 2019 9:20:12 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 10, 2019 9:20:21 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 10, 2019 9:20:21 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 10, 2019 9:20:21 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 10, 2019 9:20:38 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 11 tracks
+Apr 10, 2019 9:20:40 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 10, 2019 9:20:40 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 10, 2019 9:20:40 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 10, 2019 9:21:04 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 4 tracks
+Apr 10, 2019 9:21:04 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 102.0
+Apr 10, 2019 9:21:11 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 102.0
+Apr 10, 2019 9:30:28 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 11 tracks
+Apr 10, 2019 9:30:31 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 10, 2019 9:30:31 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 10, 2019 9:30:31 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 10, 2019 9:30:48 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 69.0
+Apr 10, 2019 9:30:48 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 9 tracks
+Apr 10, 2019 9:30:48 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Apr 10, 2019 9:30:48 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Apr 10, 2019 9:30:50 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 69.0
+Apr 10, 2019 9:30:50 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Apr 10, 2019 9:30:50 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Apr 10, 2019 9:42:21 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 69.0
+Apr 10, 2019 9:42:21 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Apr 10, 2019 9:42:21 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Apr 10, 2019 9:42:32 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 11 tracks
+Apr 10, 2019 9:42:32 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 10, 2019 9:42:32 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 10, 2019 9:42:32 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 10, 2019 9:42:34 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 10, 2019 9:42:34 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 10, 2019 9:42:34 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 10, 2019 9:44:18 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 3 tracks
+Apr 10, 2019 9:44:19 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Apr 10, 2019 9:47:37 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 3 tracks
+Apr 10, 2019 9:47:38 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 100.0
+Apr 10, 2019 9:47:50 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 112.0
+Apr 10, 2019 9:47:50 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 5 tracks
+Apr 10, 2019 9:47:55 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 112.0
+Apr 10, 2019 9:48:09 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 10, 2019 9:48:09 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 11 tracks
+Apr 10, 2019 9:48:09 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 10, 2019 9:48:09 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 10, 2019 9:53:31 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 11 tracks
+Apr 10, 2019 9:53:33 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 10, 2019 9:53:33 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 10, 2019 9:53:33 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 10, 2019 10:12:53 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 11 tracks
+Apr 10, 2019 10:12:55 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 10, 2019 10:12:55 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 10, 2019 10:12:55 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 22, 2019 10:38:17 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 11 tracks
+Apr 22, 2019 10:38:18 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 22, 2019 10:38:18 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 22, 2019 10:38:18 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 22, 2019 11:11:15 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 22, 2019 11:11:15 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 22, 2019 11:11:15 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 22, 2019 11:11:31 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 11 tracks
+Apr 22, 2019 11:11:34 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 22, 2019 11:11:34 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 22, 2019 11:11:34 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 22, 2019 11:12:03 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 9 tracks
+Apr 22, 2019 11:12:04 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 69.0
+Apr 22, 2019 11:12:04 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Apr 22, 2019 11:12:04 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Apr 22, 2019 11:12:52 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 69.0
+Apr 22, 2019 11:12:52 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Apr 22, 2019 11:12:52 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 180.0
+Apr 22, 2019 11:14:27 AM com.moppy.core.midi.MoppyMIDISequencer loadSequence
+INFO: Loaded sequence with 11 tracks
+Apr 22, 2019 11:14:28 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 22, 2019 11:14:28 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 22, 2019 11:14:28 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 22, 2019 11:15:04 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 22, 2019 11:15:04 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 22, 2019 11:15:04 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 22, 2019 11:15:54 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 22, 2019 11:15:54 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
+Apr 22, 2019 11:15:54 AM com.moppy.core.midi.MoppyMIDISequencer setTempo
+INFO: Tempo changed to 120.0
